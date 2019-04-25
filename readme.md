@@ -13,6 +13,6 @@
 ---
 ### Run call:
 ```shell
-pip install -r requirement.txt
-python app.py 
+$ pip install -r requirement.txt
+$ python app.py 
 ```
