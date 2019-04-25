@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-FLASK_ENV = 'development' #development
+# FLASK_ENV = 'development' #development
 DEBUG = True
 DEBUG_HOST = '127.0.0.1'
 DEBUG_PORT = 1238
