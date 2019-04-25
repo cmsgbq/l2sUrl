@@ -16,3 +16,6 @@
 $ pip install -r requirement.txt
 $ python app.py 
 ```
+---
+### Browse : http://[DEBUG_HOST]:[DEBUG_PORT]
+quick link: http://127.0.0.1:1238
