@@ -17,7 +17,7 @@ def hello(name=None):
 @app.route('/favicon.ico')
 def favicon():
     return send_from_directory(os.path.join(app.root_path, 'static'),
-                               'waterm.png', mimetype='image/vnd.microsoft.icon')
+                               'favicon.png', mimetype='image/vnd.microsoft.icon')
 
 if __name__ == "__main__":
     app.run(
